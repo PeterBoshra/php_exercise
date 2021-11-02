@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"App\\Tests\\Util\\CalculatorTest::testAdd":0.006}}
+{"version":1,"defects":{"App\\Tests\\Service\\CompanyServiceTest::testCreate":5,"App\\Tests\\Service\\CompanyServiceTest::test_validate_email":4},"times":{"App\\Tests\\Util\\CalculatorTest::testAdd":0.006,"App\\Tests\\Service\\CompanyServiceTest::testCreate":0.001,"App\\Tests\\Service\\CompanyServiceTest::test_validate_email":0.007}}
